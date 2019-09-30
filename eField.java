@@ -25,7 +25,7 @@ class eField{
 			int input = n.nextInt();
 			if(input==0){doIt=false;}
 			else{}
-		}
+		}//test
 
 	}
 }
